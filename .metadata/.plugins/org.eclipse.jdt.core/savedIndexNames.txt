@@ -1,0 +1,1 @@
+INDEX VERSION 1.127+/Users/ChrisLi/Desktop/Android/HW1/uwjavatest/.metadata/.plugins/org.eclipse.jdt.core
